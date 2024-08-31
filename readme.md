@@ -20,6 +20,8 @@ Para executar o script, você precisa ter o `pandas` e `openpyxl` instalados. Se
 ```bash
 pip install pandas openpyxl
 
+```
+
 EN-US
 # Data Manipulation with Pandas
 
